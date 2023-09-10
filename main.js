@@ -54,33 +54,3 @@ function mostarDatos(data){
 
 
 
-/* <div class="caja-principal">
-                <div class="caja1">
-                    <img src="imagenes/295.png" alt="imagen" height="280px" width="280px">
-                </div>
-                <div class="caja2">
-                    <div class="pokemon-info">
-                        <div class="nombre-id">
-                            <h2 class="pokemon-nombre nombre-id-estilos">Exploud</h2>
-                            <p class="pokemon-id nombre-id-estilos">#022</p>
-                        </div>   
-    
-                        <div class="pokemon-tipos">
-                            <p class="titulo-tipo">Tipo</p>
-                            <div class="tipos">
-                                <p class="tipo tipo1 electric">Electric</p>
-                                <p class="tipo tipo2 fighting">Agua</p>
-                            </div>
-                            
-                        </div>
-                        <div class="pokemon-habilidad">
-                            <p>Habilidad</p>
-                            <div class="habilidades">
-                                <p class="habilidades1">Pelea</p>
-                                <p class="habilidades2">Patada</p>
-                            </div>
-                        </div>
-    
-                    </div>
-                </div>
-            </div>    */
