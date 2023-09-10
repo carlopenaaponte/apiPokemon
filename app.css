@@ -124,7 +124,7 @@
 }
 
 .container {
-    background: url('./imagenes/container_bg.png');
+    background: url('../apiPokemon/imagenes/container_bg.png');
     min-height: 100vh;
 }
 
